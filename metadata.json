@@ -1,0 +1,7 @@
+{
+  "name": "ChuchMasterGroups",
+  "description": "A comprehensive digital event planner for organizations managing volunteers, teams, and recurring schedules with AI-assisted program generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
